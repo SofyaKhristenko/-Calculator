@@ -1,0 +1,12 @@
+1+2*(3+2) = 11
+1+8/0 = Division by zero
+6*5-1 = 29
+1++3 = Invalid input math operation.
+(1+2+3 = Invalid input brackets
+1+i+3 = Invalid input char
+2+15/3+4*2 = 15
+(1+3)*10 = 40
+13-3*3 = 4
+20/4+15/3+10/2 = 15
+8/(2-2) = Division by zero
+(-1)+3*2 = 5
